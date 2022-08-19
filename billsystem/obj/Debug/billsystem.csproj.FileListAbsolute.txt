@@ -1,0 +1,135 @@
+F:\LINQ\Day2\billsystem\billsystem\bin\Debug\billsystem.exe.config
+F:\LINQ\Day2\billsystem\billsystem\bin\Debug\billsystem.exe
+F:\LINQ\Day2\billsystem\billsystem\bin\Debug\billsystem.pdb
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.csproj.AssemblyReference.cache
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.csproj.SuggestedBindingRedirects.cache
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.Form1.resources
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.Properties.Resources.resources
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.csproj.GenerateResource.cache
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.csproj.CoreCompileInputs.cache
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.exe
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.pdb
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.species_data.resources
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.Types.resources
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.company_data.resources
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.Items.resources
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.Units.resources
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.Clients.resources
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.Sales_Reportes.resources
+F:\LINQ\Day2\billsystem\billsystem\bin\Debug\EntityFramework.dll
+F:\LINQ\Day2\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.dll
+F:\LINQ\Day2\billsystem\billsystem\bin\Debug\EntityFramework.xml
+F:\LINQ\Day2\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.xml
+F:\LINQ\Day2\billsystem\billsystem\obj\Debug\billsystem.csproj.CopyComplete
+D:\Everything for ITI\Entity framework\billsystem\billsystem\bin\Debug\billsystem.exe.config
+D:\Everything for ITI\Entity framework\billsystem\billsystem\bin\Debug\billsystem.exe
+D:\Everything for ITI\Entity framework\billsystem\billsystem\bin\Debug\billsystem.pdb
+D:\Everything for ITI\Entity framework\billsystem\billsystem\bin\Debug\EntityFramework.dll
+D:\Everything for ITI\Entity framework\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Everything for ITI\Entity framework\billsystem\billsystem\bin\Debug\EntityFramework.xml
+D:\Everything for ITI\Entity framework\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.csproj.AssemblyReference.cache
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.csproj.SuggestedBindingRedirects.cache
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Clients.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.company_data.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Form1.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Items.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Properties.Resources.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Sales_Reportes.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.species_data.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Types.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Units.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.csproj.GenerateResource.cache
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.csproj.CoreCompileInputs.cache
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.csproj.CopyComplete
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.exe
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.pdb
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Migrations.v1.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Migrations.v2.resources
+D:\Everything for ITI\Entity framework\billsystem\billsystem\obj\Debug\billsystem.Migrations.v3.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\bin\Debug\billsystem.exe.config
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\bin\Debug\billsystem.exe
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\bin\Debug\billsystem.pdb
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\bin\Debug\EntityFramework.dll
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\bin\Debug\EntityFramework.xml
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.csproj.AssemblyReference.cache
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Clients.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.company_data.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Form1.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Items.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Migrations.v1.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Migrations.v2.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Migrations.v3.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Properties.Resources.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Sales_Reportes.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.species_data.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Types.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.Units.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.csproj.GenerateResource.cache
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.csproj.CoreCompileInputs.cache
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.csproj.CopyComplete
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.exe
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.pdb
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.employee.resources
+C:\Users\Sara khalaf\Downloads\billsystem\billsystem\billsystem\obj\Debug\billsystem.inoice.resources
+D:\billsystem\billsystem\bin\Debug\billsystem.exe.config
+D:\billsystem\billsystem\bin\Debug\billsystem.exe
+D:\billsystem\billsystem\bin\Debug\billsystem.pdb
+D:\billsystem\billsystem\bin\Debug\EntityFramework.dll
+D:\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\billsystem\billsystem\bin\Debug\EntityFramework.xml
+D:\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\billsystem\billsystem\obj\Debug\billsystem.csproj.AssemblyReference.cache
+D:\billsystem\billsystem\obj\Debug\billsystem.csproj.SuggestedBindingRedirects.cache
+D:\billsystem\billsystem\obj\Debug\billsystem.Clients.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.company_data.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.employee.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Form1.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.inoice.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Items.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Migrations.v1.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Migrations.v2.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Migrations.v3.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Properties.Resources.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Sales_Reportes.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.species_data.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Types.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.Units.resources
+D:\billsystem\billsystem\obj\Debug\billsystem.csproj.GenerateResource.cache
+D:\billsystem\billsystem\obj\Debug\billsystem.csproj.CoreCompileInputs.cache
+D:\billsystem\billsystem\obj\Debug\billsystem.csproj.CopyComplete
+D:\billsystem\billsystem\obj\Debug\billsystem.exe
+D:\billsystem\billsystem\obj\Debug\billsystem.pdb
+D:\billsystem\billsystem\obj\Debug\billsystem.Migrations.v21.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\bin\Debug\billsystem.exe.config
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\bin\Debug\billsystem.exe
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\bin\Debug\billsystem.pdb
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\bin\Debug\EntityFramework.dll
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\bin\Debug\EntityFramework.xml
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.csproj.AssemblyReference.cache
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Clients.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.company_data.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.employee.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Form1.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.inoice.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Items.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Migrations.v1.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Migrations.v2.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Migrations.v3.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Migrations.v21.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Properties.Resources.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Sales_Reportes.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.species_data.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Types.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.Units.resources
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.csproj.GenerateResource.cache
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.csproj.CoreCompileInputs.cache
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.csproj.CopyComplete
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.exe
+C:\Users\Sara khalaf\Desktop\billsystem\billsystem\obj\Debug\billsystem.pdb
